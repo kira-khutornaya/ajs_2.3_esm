@@ -1,0 +1,28 @@
+{
+  "name": "ajs_2.3_esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kira-khutornaya/ajs_2.3_esm.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "esm"
+  ],
+  "author": "Kira <k@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kira-khutornaya/ajs_2.3_esm/issues"
+  },
+  "homepage": "https://github.com/kira-khutornaya/ajs_2.3_esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
